@@ -1,0 +1,10 @@
+// C++ program to display "Hello World"
+ #include <iostream> // Header file for input output functions
+  
+int main() // Main() function: where the execution of program begins  //
+{
+   
+    std::cout << "Hello World";  // prints hello world
+  
+    return 0;
+}
